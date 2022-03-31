@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahmed</h1>
-###Passionate || Dedicated
 <h3 align="center">I am a student of Computer Science and Engineering. I love programming . I learn new topics, algorithm and practice problems using the algorithm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-3549&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-3549" /> </p>
