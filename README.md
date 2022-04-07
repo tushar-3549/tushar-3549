@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-tushar-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tushar-ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/tushar ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/tushar3549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/_tushar.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tushar.ahmed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tushar_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tushar_ahmed" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushar_ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_ahmed" height="30" width="40" /></a>
