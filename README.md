@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="300" height="250" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-3549&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-3549" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 Now I’m working on **Web Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
