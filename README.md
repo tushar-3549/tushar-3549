@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahmed</h1>
 <h3 align="center">I am a student of Computer Science and Engineering. I love programming . I learn new topics, algorithm and practice problems using the algorithm.</h3>
 <img align="right" alt="coding" width="300" height="250" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-3549&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-3549" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-3549&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-3549" /> </p> -->
+<p align="left"> <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="tushar-3549" /> </p>
+
 
 - 🔭 Now I’m working on **Web Development**
 
