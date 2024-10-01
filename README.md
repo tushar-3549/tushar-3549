@@ -6,8 +6,6 @@
 <!-- <p align="left"> <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="tushar-3549" /> </p> -->
 
 
-- 🔭 Now I’m working at **BariKoi Tech. Ltd**
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **C/C++, JS, Python, RESTful APIs and Technologies**
