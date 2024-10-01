@@ -8,7 +8,7 @@
 
 - 🔭 Now I’m working on **BariKoi Tech. Ltd**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **C/C++, JS, Python, RESTful APIs and Technologies**
 
