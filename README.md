@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tushar Ahmed</h1>
-<h3 align="center">I am a student of Computer Science and Engineering. I love programming . I learn new topics, algorithm and practice problems using the algorithm.</h3>
+<!-- <h3 align="center">I am a student of Computer Science and Engineering. I love programming . I learn new topics, algorithm and practice problems using the algorithm.</h3> -->
 <!-- <img align="right" alt="coding" width="300" height="250" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-3549&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-3549" /> </p>
 <img align="right" alt="coding" width="300" height="250" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
 <!-- <p align="left"> <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="tushar-3549" /> </p> -->
 
 
-- 🔭 Now I’m working on **Web Development**
+- 🔭 Now I’m working on **BariKoi Tech. Ltd**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **programming & CSE related questions.**
+- 💬 Ask me about **C/C++, JS, Python, RESTful APIs and Technologies**
 
-- 📫 How to reach me **tushar15-3549@diu.edu.bd**
+- 📫 How to reach me **md.tushar3549@gmail.com**
 
-- ⚡ Fun fact **I think Sometimes I prefer to be alone and talk to myself.**
+- ⚡ Fun fact **I think I prefer to be alone and talk to myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
