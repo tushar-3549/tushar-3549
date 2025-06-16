@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I think I prefer to be alone and talk to myself.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/tushar3549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tushar3549" height="30" width="40" /></a>
 <a href="https://twitter.com/tushar3549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar3549" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://discord.gg/tushar3549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tushar3549" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
@@ -54,7 +54,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-3549&show_icons=true&locale=en&layout=compact" alt="tushar-3549" /></p>
 
-<h3 align="right">🏆 GitHub Achievements</h3>
-<p align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-3549&theme=gruvbox&no-frame=true&title=Stars,Followers,Commits,Issues,Repositories" />
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tushar-3549&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Repositories" />
 </p>
+
