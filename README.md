@@ -51,5 +51,10 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </a>
 </p>
 
+<h3 align="right">🏆 GitHub Achievements</h3>
+<p align="right">
+  <img src="https://github-profile-trophy.vercel.app/?username=tushar-3549&theme=gruvbox&no-frame=true&title=Stars,Followers,Commits,Issues,Repositories" />
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-3549&show_icons=true&locale=en&layout=compact" alt="tushar-3549" /></p>
