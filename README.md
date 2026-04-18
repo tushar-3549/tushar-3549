@@ -22,9 +22,9 @@
   <a href="https://fb.com/tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin:5px"/></a>
   <a href="https://instagram.com/_tushar.ahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin:5px"/></a>
   <a href="https://www.youtube.com/@tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" style="margin:5px"/></a>
-</p>
+<!-- </p> -->
 
-<p align="left">
+<!-- <p align="left"> -->
   <a href="https://www.codechef.com/users/tushar_ahmed"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" style="margin:5px"/></a>
   <a href="https://www.hackerrank.com/tushar15_3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" style="margin:5px"/></a>
   <a href="https://codeforces.com/profile/md_tushar_ahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" style="margin:5px"/></a>
