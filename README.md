@@ -22,9 +22,9 @@
   <a href="https://fb.com/tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin:5px"/></a>
   <a href="https://instagram.com/_tushar.ahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin:5px"/></a>
   <a href="https://www.youtube.com/@tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" style="margin:5px"/></a>
-<!-- </p> -->
+</p>
 
-<!-- <p align="left"> -->
+<p align="left"> 
   <a href="https://www.codechef.com/users/tushar_ahmed"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" style="margin:5px"/></a>
   <a href="https://www.hackerrank.com/tushar15_3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" style="margin:5px"/></a>
   <a href="https://codeforces.com/profile/md_tushar_ahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" style="margin:5px"/></a>
@@ -34,7 +34,7 @@
 </p>
 
 <h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
@@ -52,6 +52,38 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </a>
+</p> -->
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:6px"/>
+
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:6px"/>
+
+  <!-- Backend / Frameworks -->
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" style="margin:6px"/>
+
+  <!-- Frontend Framework -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin:6px"/>
+
+  <!-- Backend JS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" style="margin:6px"/>
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" style="margin:6px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin:6px"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" style="margin:6px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" style="margin:6px"/>
+
 </p>
 
 <h3 align="left">🏆 GitHub Achievements</h3>
