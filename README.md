@@ -24,6 +24,15 @@
   <a href="https://www.youtube.com/@tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" style="margin:5px"/></a>
 </p>
 
+<p align="center">
+  <a href="https://www.codechef.com/users/tushar_ahmed"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" style="margin:5px"/></a>
+  <a href="https://www.hackerrank.com/tushar15_3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" style="margin:5px"/></a>
+  <a href="https://codeforces.com/profile/md_tushar_ahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" style="margin:5px"/></a>
+  <a href="https://www.leetcode.com/tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" style="margin:5px"/></a>
+  <a href="https://www.hackerearth.com/@tushar15-3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" style="margin:5px"/></a>
+  <a href="https://discord.gg/tushar3549"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" style="margin:5px"/></a>
+</p>
+
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
