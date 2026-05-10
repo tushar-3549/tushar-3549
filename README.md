@@ -89,6 +89,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tushar-3549&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Repositories" />
 </p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-3549&show_icons=true&locale=en&layout=compact" alt="tushar-3549" /></p> -->
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-3549&theme=default" alt="tushar-3549" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-3549&theme=dark" alt="tushar-3549" /></p>
 
 
